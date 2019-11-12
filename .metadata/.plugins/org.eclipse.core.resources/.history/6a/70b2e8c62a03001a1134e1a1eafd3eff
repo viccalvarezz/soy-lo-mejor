@@ -1,7 +1,0 @@
-package Ejercicio3.Aba;
-
-import junit.framework.TestCase;
-
-public class testApp extends TestCase {
-
-}
