@@ -1,0 +1,11 @@
+package Ejercicio3.Aba;
+
+import org.junit.*;
+
+public class testApp {
+ 
+	@Test
+	void testApp() {
+		
+	}
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<lienzo alto="200" ancho="300">
+  <figura tipo="rectangulo">
+    <x>100</x>
+    <y>100</y>
+    <ancho>110</ancho>
+    <alto>25</alto>
+  </figura>
+  <figura tipo="rectangulo">
+    <x>120</x>
+    <y>75</y>
+    <ancho>70</ancho>
+    <alto>25</alto>
+  </figura>
+  <figura tipo="circulo">
+    <x>160</x>
+    <y>125</y>
+    <radio>25</radio>
+  </figura>
+  <figura tipo="circulo">
+    <x>120</x>
+    <y>125</y>
+    <radio>25</radio>
+  </figura>
+</lienzo>
